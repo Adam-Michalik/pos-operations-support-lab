@@ -49,7 +49,6 @@ WantedBy=multi-user.target
 The following commands were used:
 
 ```bash
-sudo systemctl daemon-reload
 sudo systemctl start pos-app
 sudo systemctl status pos-app
 sudo systemctl restart pos-app
