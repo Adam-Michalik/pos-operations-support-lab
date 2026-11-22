@@ -33,7 +33,7 @@ SSH was configured to allow remote administration of both virtual machines from 
 Example:
 
 ```bash
-ssh adam@192.168.56.10
+ssh <username>@192.168.56.10
 ```
 
 ## Lab Components
